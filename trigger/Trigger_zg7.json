@@ -1,0 +1,24 @@
+{
+	"name": "Trigger_zg7",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "CopyPipeline_zg7",
+					"type": "PipelineReference"
+				}
+			}
+		],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Hour",
+				"interval": 2,
+				"startTime": "2025-07-09T06:17:00Z",
+				"timeZone": "UTC"
+			}
+		}
+	}
+}

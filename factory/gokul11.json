@@ -1,0 +1,9 @@
+{
+	"name": "gokul11",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a82d953d-f7b7-4d73-826e-7f6a413783a9",
+		"tenantId": "c493b23e-a23a-470b-a650-d48e1cdf25c4"
+	}
+}
